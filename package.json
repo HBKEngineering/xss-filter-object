@@ -1,6 +1,6 @@
 {
   "name": "xss-filter-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sanitize xss from plain object/array/string",
   "main": "index.js",
   "directories": {
