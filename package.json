@@ -27,7 +27,7 @@
   "homepage": "https://github.com/vkfont/xss-filter-object#readme",
   "dependencies": {
     "lodash": "^3.10.1",
-    "xss-filters": "^1.2.6"
+    "yahoo/xss-filters": "^1.2.6"
   },
   "devDependencies": {
     "chai": "^3.2.0",
